@@ -31,7 +31,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/your-username/fastapi-go-lib"
+    "github.com/eantaru/apifast"
 )
 
 func main() {
@@ -58,7 +58,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/your-username/fastapi-go-lib"
+    "github.com/eantaru/apifast"
 )
 
 func main() {
@@ -92,7 +92,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/your-username/fastapi-go-lib"
+    "github.com/eantaru/apifast"
 )
 
 func main() {
@@ -126,7 +126,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/your-username/fastapi-go-lib"
+    "github.com/eantaru/apifast"
 )
 
 func main() {
@@ -161,7 +161,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/your-username/fastapi-go-lib"
+    "github.com/eantaru/apifast"
 )
 
 func main() {
