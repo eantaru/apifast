@@ -185,6 +185,6 @@ func (b *FastBuilder) makeRequest() (*Response, error) {
 }
 
 // mapper function unmarshals the JSON response into the provided destination
-func mapper(source []byte, dest interface{}) error {
+func mapper[T any](source []byte, dest *T) error {
 	return json.Unmarshal(source, dest)
 }
