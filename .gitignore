@@ -1,0 +1,19 @@
+# Binary files
+*.exe
+*.out
+*.o
+*.so
+
+# Dependency directories
+/vendor/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
